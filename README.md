@@ -1,2 +1,3 @@
 # CartaApresentacao
-Um site para mostrar as minhas habilidades e o que já produzi com elas
+Um site para mostrar as minhas habilidades e a capacidade de usar o que aprendi para criar sites
+
